@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-echo"srikant ganeshan devendran"
+echo"srikant"
